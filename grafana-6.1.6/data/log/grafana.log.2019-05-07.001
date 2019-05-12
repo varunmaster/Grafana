@@ -1,0 +1,6 @@
+t=2019-05-06T12:04:50-0400 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=38.109.103.212 time_ms=0 size=29 referer=
+t=2019-05-06T12:07:35-0400 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/dashboard/new status=404 remote_addr=38.109.103.212 time_ms=0 size=25660 referer="http://74.102.92.146:8085/dashboard/new?orgId=1&gettingstarted"
+t=2019-05-06T21:32:15-0400 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=192.168.1.1 time_ms=0 size=29 referer=
+t=2019-05-06T23:10:51-0400 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/favicon.ico status=404 remote_addr=192.168.1.1 time_ms=0 size=25660 referer=
+t=2019-05-06T23:31:16-0400 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=192.168.1.179 time_ms=0 size=29 referer=
+t=2019-05-06T23:31:21-0400 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=192.168.1.1 time_ms=0 size=29 referer=

@@ -1,0 +1,4 @@
+t=2019-05-11T12:19:12-0400 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=185.53.88.184 time_ms=0 size=29 referer=
+t=2019-05-11T22:09:09-0400 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=172.58.200.43 time_ms=0 size=29 referer=
+t=2019-05-11T23:19:56-0400 lvl=eror msg="Dashboard not found" logger=context userId=1 orgId=1 uname=admin error="Dashboard not found"
+t=2019-05-11T23:19:56-0400 lvl=info msg="Request Completed" logger=context userId=1 orgId=1 uname=admin method=GET path=/api/dashboards/uid/undefined status=404 remote_addr=192.168.1.1 time_ms=38 size=33 referer=http://74.102.92.146:8085/dashboard/import

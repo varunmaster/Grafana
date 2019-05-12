@@ -1,0 +1,2 @@
+t=2019-05-07T16:41:54-0400 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=38.109.103.212 time_ms=0 size=29 referer=
+t=2019-05-07T16:43:56-0400 lvl=info msg="Request Completed" logger=context userId=0 orgId=0 uname= method=GET path=/ status=302 remote_addr=38.109.103.212 time_ms=0 size=29 referer=
